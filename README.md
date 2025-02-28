@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+My name is Konstantinos Loizos and I'm currently studying Department of Informatics and Computer Engineering at the University of West Attica.
 <!--
 **kostaslgr7/kostaslgr7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
